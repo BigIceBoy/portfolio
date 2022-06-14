@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4394b84-5b0b-453d-b605-d11c5a51bf3b" name="Changes" comment="Add div word">
+    <list default="true" id="f4394b84-5b0b-453d-b605-d11c5a51bf3b" name="Changes" comment="добавил иконки">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +44,7 @@
       <option name="presentableId" value="Default" />
       <updated>1655165807647</updated>
       <workItem from="1655165809664" duration="1839000" />
-      <workItem from="1655167925466" duration="3282000" />
+      <workItem from="1655167925466" duration="4301000" />
     </task>
     <task id="LOCAL-00001" summary="one momento">
       <created>1655165894503</created>
@@ -80,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655168695571</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="добавил иконки">
+      <created>1655172789574</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1655172789574</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +122,7 @@
     <MESSAGE value="rename .htm web git" />
     <MESSAGE value="rename .htm web git 1" />
     <MESSAGE value="Add div word" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add div word" />
+    <MESSAGE value="добавил иконки" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавил иконки" />
   </component>
 </project>
