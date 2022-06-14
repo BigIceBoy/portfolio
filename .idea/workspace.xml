@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4394b84-5b0b-453d-b605-d11c5a51bf3b" name="Changes" comment="Чистый файл, новый папки">
+    <list default="true" id="f4394b84-5b0b-453d-b605-d11c5a51bf3b" name="Changes" comment="добавил CSS">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1655165807647</updated>
       <workItem from="1655165809664" duration="1839000" />
-      <workItem from="1655167925466" duration="5927000" />
+      <workItem from="1655167925466" duration="9548000" />
     </task>
     <task id="LOCAL-00001" summary="one momento">
       <created>1655165894503</created>
@@ -101,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655173868655</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="добавил CSS">
+      <created>1655181022340</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1655181022340</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +145,7 @@
     <MESSAGE value="Add div word" />
     <MESSAGE value="добавил иконки" />
     <MESSAGE value="Чистый файл, новый папки" />
-    <option name="LAST_COMMIT_MESSAGE" value="Чистый файл, новый папки" />
+    <MESSAGE value="добавил CSS" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавил CSS" />
   </component>
 </project>

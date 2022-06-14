@@ -1,5 +1,30 @@
-box {
-    width: 300px;
-    height: 200px;
-    background-color: green;
+.container {
+    display: flex;
+    flex-wrap: nowrap;
+}
+.hed {
+    width: 1264px;
+    height: 30px;
+    background-color: chocolate;
+}
+.block-1-Icon {
+    width: 76px;
+    height: 699px;
+    background-color: chocolate;
+}
+.block-1-select {
+    width: 244px;
+    height: 699px;
+    background-color: yellow;
+}
+
+.block-2-News {
+    width: 700px;
+    height: 844px;
+    background-color: red;
+}
+.block-3-Social {
+    width: 244px;
+    height: 844px;
+    background-color: blue;
 }
