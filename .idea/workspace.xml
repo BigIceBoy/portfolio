@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4394b84-5b0b-453d-b605-d11c5a51bf3b" name="Changes" comment="rename .htm web git 1" />
+    <list default="true" id="f4394b84-5b0b-453d-b605-d11c5a51bf3b" name="Changes" comment="Add div word">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +43,7 @@
       <option name="presentableId" value="Default" />
       <updated>1655165807647</updated>
       <workItem from="1655165809664" duration="1839000" />
-      <workItem from="1655167925466" duration="645000" />
+      <workItem from="1655167925466" duration="3282000" />
     </task>
     <task id="LOCAL-00001" summary="one momento">
       <created>1655165894503</created>
@@ -71,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655168530173</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add div word">
+      <created>1655168695571</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1655168695571</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,7 +97,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="Div_2" />
                       </list>
                     </value>
                   </entry>
@@ -104,6 +113,7 @@
     <MESSAGE value="one momento" />
     <MESSAGE value="rename .htm web git" />
     <MESSAGE value="rename .htm web git 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="rename .htm web git 1" />
+    <MESSAGE value="Add div word" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add div word" />
   </component>
 </project>
