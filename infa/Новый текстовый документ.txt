@@ -1,0 +1,18 @@
+ прочитай про свойствао display все
+ну и про модели block, flex, grid, inline
+
+ну можно так <div class="container">
+    <div class="block-1 common"></div>
+    <div class="block-2 common"></div>
+    <div class="block-3 common"></div>
+    <div class="block-4 common"></div>
+</div>
+
+ по сути в верстке будешь использовать в основном 
+flex
+grid
+block
+inline
+inline-block
+inline-flex
+grid и flex можно почти все сверстать, ну кроме inline
